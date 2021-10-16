@@ -3,8 +3,8 @@ Pytorch assignment
 
 # Submission by Malathi Murugesan
 
-# Objectie
-The aim is to build a neural network which 
+# Objective
+The objective is to build a neural network which can
 
 1.Recognize handwritten digits when provided as an image input 
 
