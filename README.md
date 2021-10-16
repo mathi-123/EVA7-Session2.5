@@ -41,7 +41,8 @@ we get 2 outputs :
 
 # Model Summary
 
-![Screenshot (4)](https://user-images.githubusercontent.com/91079217/137569289-36a89c1e-df72-443e-8ed8-21e6a6e6cf6e.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/91079217/137569411-5e31e1da-a7e1-4c62-8536-68c1a09db162.png)
+
 
 # The netwwork loss function
 
@@ -49,8 +50,7 @@ Loss function used is Negative Log Likelihood loss .
 
 # Training logs
 
-![Screenshot (3)](https://user-images.githubusercontent.com/91079217/137569277-ad23c527-2d70-45da-a733-25bb0e3e73e5.png)
-
+![Screenshot (6)](https://user-images.githubusercontent.com/91079217/137569417-4126daa3-c6e3-4506-84d7-8312f6befab9.png)
 
 # Plots representing the losses and accuracy
 
