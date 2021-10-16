@@ -1,7 +1,10 @@
 # EVA7-Session2.5
 Pytorch assignment
 
-# Submission by Malathi Murugesan
+# Submission by Malathi
+
+mailid: malathimurugesan@hotmail.com
+
 
 # Objective
 The objective is to build a neural network which can
